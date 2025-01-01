@@ -23,4 +23,4 @@ Check out the live demo: https://regal-brioche-afbcbc.netlify.app
 - Styling: CSS, Bootstrap/Tailwind CSS 
 - State Management: Context API/Redux 
 - Backend as a service: APPWRITE
--
+
